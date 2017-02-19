@@ -1,0 +1,12 @@
+{
+  "name": "level-doc",
+  "version": "0.0.1",
+  "description": "Level db based simple document store with small api",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:niksrc/level-doc.git",
+    "type": "git"
+  },
+  "author": "Nikhil Srivastava <niksrc@gmail.com>",
+  "license": "MIT"
+}
